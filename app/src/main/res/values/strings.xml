@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoOnline</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo_online">Todo Online</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="add_todo">Add Todo</string>
+</resources>
